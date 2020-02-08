@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^3.3.1",
     "slugify": "^1.3.4"
   },
   "scripts": {
@@ -22,5 +22,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "_Starter project for React course_",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinkful-Ed/laptop_customizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thinkful-Ed/laptop_customizer/issues"
+  },
+  "homepage": "https://github.com/Thinkful-Ed/laptop_customizer#readme"
 }
